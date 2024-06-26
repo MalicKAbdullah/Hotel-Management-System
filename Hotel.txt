@@ -1,0 +1,7 @@
+Name : CITY PALACE HOTEL
+Rooms : 30
+Floors : 3
+Location : 23-A, Kent, Lahore
+Residents : 315
+Employees : 3
+Area (Square Feet): 20125

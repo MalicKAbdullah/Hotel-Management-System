@@ -1,0 +1,23 @@
+GuestId	      Members         Rooms           Days           Transport       CardHolder
+
+g_irf01		4		2		5		1		1
+g_zah02		3		1		5		1		0
+g_ras03		5		2		5		1		0
+g_aye04		4		4		7		1		1
+g_nim05		5		3		4		1		0
+g_han06		1		1		1		1		1
+g_ham07		8		6		2		1		0
+g_nas08		4		2		2		0		0
+g_abd09		2		1		1		1		1
+g_sum010	2		1		1		1		0
+g_mal011	5		2		5		1		0
+g_als012	4		3		2		1		0
+g_abd013	5		3		2		1		0
+g_zoh014	2		1		2		0		0
+g_zee015	2		2		5		1		0
+g_mua016	5		5		4		1		0
+g_ali017	5		2		1		1		0
+g_reh018	5		2		1		1		0
+g_abd019	5		2		1		1		0
+g_imr020	2		1		2		1		0
+g_zai021	2		1		1		1		0
